@@ -9,13 +9,13 @@ To get started with LightControlPro, follow these steps:
 1. Clone the GitHub repository:
 
    ```bash
-   git clone https://github.com/legertom/hue-light-control.git
+   git clone https://github.com/legertom/light-control-pro.git
    ```
 
-2. Change to the `hue-light-control` directory and install the dependencies:
+2. Change to the `light-control-pro` directory and install the dependencies:
 
    ```bash
-   cd hue-light-control
+   cd light-control-pro
    npm install
    ```
 
